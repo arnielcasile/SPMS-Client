@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'custom-font';
+    src: 
+    url('../others/font/allegregya/1.ttf')  format('truetype'),
+    url('../others/font/allegregya/2.ttf')  format('truetype'),
+    url('../others/font/allegregya/3.ttf')  format('truetype'),
+    url('../others/font/allegregya/4.ttf')  format('truetype'),
+    url('../others/font/allegregya/5.ttf')  format('truetype'),
+    url('../others/font/allegregya/6.ttf')  format('truetype'),
+    url('../others/font/allegregya/7.ttf')  format('truetype'),
+    url('../others/font/allegregya/8.ttf')  format('truetype'),
+    url('../others/font/allegregya/9.ttf')  format('truetype'),
+    url('../others/font/allegregya/10.ttf')  format('truetype'),
+    url('../others/font/allegregya/11.ttf')  format('truetype');
+  }

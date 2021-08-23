@@ -1,0 +1,2182 @@
+commit 8bec2e8f8f7c2711b4badb3e4f5a1c756ab880c5
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Mon Jun 29 13:32:10 2020 +0800
+
+    [RECEIVING] Update: Change created_at to updated_at.
+
+commit d8e9b8d4f1c13bf56bfd169bc190aa5ae390a53d
+Merge: 351bb70 edc9572
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Mon Jun 29 07:03:44 2020 +0800
+
+    Merge branch 'develop' of //10.164.20.176/Repositories/MIT/DEVELOPMENT/pdls-v2/client into develop
+
+commit 351bb701f8561a0000a4acd3167a903ac3e7d602
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Mon Jun 29 07:03:29 2020 +0800
+
+    [PALLETIZING] Update: Added additional rows group in palletizing masterlist table
+
+commit edc95725df5ae07af5758a779dc52b92e3115fd5
+Merge: 4304bb3 6112d59
+Author: Jorgette Nicolas <michellejorgette.nicolas@ph.fujitsu.com>
+Date:   Wed Jun 24 16:40:37 2020 +0800
+
+    FIX CONFLICT
+
+commit 6112d5937e81238a5480aa1713460c0ad4b1f7c2
+Merge: 3062714 5b1f684
+Author: Joyce Ethel Canubas <joyceethel.canubas@ph.fujitsu.com>
+Date:   Wed Jun 24 16:35:14 2020 +0800
+
+    Merge branch 'deliverydata' into develop
+
+commit 4304bb36fd0d35ffe5161b6197443c5777f91141
+Author: Jorgette Nicolas <michellejorgette.nicolas@ph.fujitsu.com>
+Date:   Wed Jun 24 16:18:22 2020 +0800
+
+    [DELIVERY RECEIPTS] Add: #1311 Additional Modal UI for edit button
+
+commit 3062714f64eaf151346d9c2b8efc16d46b7eec17
+Merge: fe98889 e1c07a3
+Author: Joyce Ethel Canubas <joyceethel.canubas@ph.fujitsu.com>
+Date:   Wed Jun 24 16:12:03 2020 +0800
+
+    Merge branch 'develop' of //10.164.20.176/Repositories/MIT/DEVELOPMENT/pdls-v2/client into develop
+
+commit 5b1f6849f6681ddb29c03a1bd82709c9768bc4d7
+Author: Joyce Ethel Canubas <joyceethel.canubas@ph.fujitsu.com>
+Date:   Wed Jun 24 15:14:22 2020 +0800
+
+    [DELIIVERY DATA] CREATE: #1601 Create Template, #1606 Function Range ,#1620 Load Inhouse to DataTable
+
+commit e1c07a3016a695ec6bfed225eddd4377cf4c2eff
+Merge: 32d19fa 3947010
+Author: Rabor <jerwyn.rabor@fujitsu.com>
+Date:   Wed Jun 24 14:43:48 2020 +0800
+
+    Merging Conflicts
+
+commit 32d19fafe6b63615d000bcadb19b62aa60859d88
+Author: Rabor <jerwyn.rabor@fujitsu.com>
+Date:   Wed Jun 24 14:40:44 2020 +0800
+
+    System Patch
+
+commit 394701058b12d0c7918c629b3e5dcd6b49f5632c
+Author: Magango <maryrose.magango@fujitsu.com>
+Date:   Wed Jun 24 14:27:55 2020 +0800
+
+    [FOR DISPATCH] Update: Fix codes
+
+commit cd53720b5b031b899f7eb147266c8cece3ceb5c5
+Merge: 3e9210d ba106c8
+Author: Magango <maryrose.magango@fujitsu.com>
+Date:   Wed Jun 24 13:43:49 2020 +0800
+
+    Merge branch 'local' into irreg_status
+
+commit 3e9210d1c7f280addef3d6199d58caaa8a04a633
+Author: Magango <maryrose.magango@fujitsu.com>
+Date:   Wed Jun 24 13:36:03 2020 +0800
+
+    [CHECKING] Update: Add validation for buttons and irreg status
+
+commit ba106c83d795601124768121d09381c29f796823
+Author: Afelo <edralyn.afelo@fujitsu.com>
+Date:   Wed Jun 24 12:13:25 2020 +0800
+
+    [PICKER MENU] Create: #1641 Save Function
+
+commit a4e533c7ea2afe6024c55c6154751e10d421fe51
+Merge: 516df73 af87a9f
+Author: Afelo <edralyn.afelo@fujitsu.com>
+Date:   Wed Jun 24 10:59:22 2020 +0800
+
+    Merge branch 'develop' of //10.164.20.176/Repositories/MIT/DEVELOPMENT/pdls-v2/client into develop
+
+commit 9ff1a1b6cf4ded3766a5f2cfbb6828ff57c621fb
+Author: Jorgette Nicolas <michellejorgette.nicolas@ph.fujitsu.com>
+Date:   Wed Jun 24 09:56:19 2020 +0800
+
+    [FORECAST] Update: #1587 Updated condition for saving data
+
+commit 09c0d15cc9f1e93ca7f1f2c244bf2f54a7c1e3f9
+Author: Jorgette Nicolas <michellejorgette.nicolas@ph.fujitsu.com>
+Date:   Wed Jun 24 09:11:28 2020 +0800
+
+    [FORECAST] Update: #1254 Updated parameter for loading data
+
+commit 6dcf51fe2274551e5615fcdd5e0b826b034bd727
+Author: Jorgette Nicolas <michellejorgette.nicolas@ph.fujitsu.com>
+Date:   Wed Jun 24 09:01:12 2020 +0800
+
+    [FORECAST] Update: #1272 Modified input box for quantity, numbers only
+
+commit 516df73bb60ccc695e39b6e2b5b5a51b29aab580
+Author: Afelo <edralyn.afelo@fujitsu.com>
+Date:   Wed Jun 24 08:42:13 2020 +0800
+
+    [PICKER MENU] Create: #1640 Function Load Picker to Data Table
+
+commit 62a233e4efc6f020fdceb756a03e76be63307ed4
+Author: Jorgette Nicolas <michellejorgette.nicolas@ph.fujitsu.com>
+Date:   Wed Jun 24 08:30:54 2020 +0800
+
+    [FORECAST] Add: #1587 Additional function for saving forecast data
+
+commit af87a9f1a7affb696aeba28cd4d42cb5e7fea5d9
+Merge: 76aa724 e9b5925
+Author: Rabor <jerwyn.rabor@fujitsu.com>
+Date:   Wed Jun 24 08:11:03 2020 +0800
+
+    Merge branch 'develop' of //10.164.20.176/Repositories/MIT/DEVELOPMENT/pdls-v2/client into develop
+
+commit 76aa724a5831c0c20c8f4d095f2b50cf0e272413
+Author: Rabor <jerwyn.rabor@fujitsu.com>
+Date:   Wed Jun 24 08:10:15 2020 +0800
+
+    System Patch
+
+commit e9b5925b2bf5cc59a3837b8ca61395c00c3ce006
+Merge: 2782631 8d06f70
+Author: Magango <maryrose.magango@fujitsu.com>
+Date:   Tue Jun 23 15:07:33 2020 +0800
+
+    Merge branch 'develop' of //10.164.20.176/Repositories/MIT/DEVELOPMENT/pdls-v2/client into develop
+
+commit 55d91549d9bfac0a1243d86031c76cf342a98aa4
+Author: Jorgette Nicolas <michellejorgette.nicolas@ph.fujitsu.com>
+Date:   Tue Jun 23 15:05:19 2020 +0800
+
+    [FORECAST] Add: #1254 Additional function of loading data to data table
+
+commit 27826313f94bf781db8acb462bd08b3480bf973c
+Author: Magango <maryrose.magango@fujitsu.com>
+Date:   Tue Jun 23 14:30:16 2020 +0800
+
+    [DESTINATION] Update: #1706 Existing Destination
+
+commit 6f1f4bf578c543500e9122605c0b71d1b201e3ab
+Merge: 69dd818 8d06f70
+Author: Afelo <edralyn.afelo@fujitsu.com>
+Date:   Tue Jun 23 14:08:20 2020 +0800
+
+    Merging Conflict
+
+commit 8d06f70c08e10a05914c49ac7c2144e111cf2631
+Merge: c6adabc 01178fd
+Author: Rabor <jerwyn.rabor@fujitsu.com>
+Date:   Tue Jun 23 14:01:04 2020 +0800
+
+    Merge branch 'develop' of //10.164.20.176/Repositories/MIT/DEVELOPMENT/pdls-v2/client into develop
+
+commit c6adabc4de1a895fea70729d9b5ae2dfc4a674f9
+Author: Rabor <jerwyn.rabor@fujitsu.com>
+Date:   Tue Jun 23 14:00:22 2020 +0800
+
+    System Patch
+
+commit 69dd818f83670858d005049929fd955eed6eac89
+Author: Afelo <edralyn.afelo@fujitsu.com>
+Date:   Tue Jun 23 12:20:06 2020 +0800
+
+    [PICKER MENU] Create: #1638 Picker Menu User Interface
+
+commit 1f54d59c032bdce4593f8f33ec08d5eb65e8d6cc
+Author: Jorgette Nicolas <michellejorgette.nicolas@ph.fujitsu.com>
+Date:   Tue Jun 23 11:44:02 2020 +0800
+
+    [FORECAST] Add: #1260 Additional onchange for date range, Daily and Monthly
+
+commit b666bc718bb528f3531123b4369ed0f66ac89430
+Author: Jorgette Nicolas <michellejorgette.nicolas@ph.fujitsu.com>
+Date:   Tue Jun 23 11:42:43 2020 +0800
+
+    [FORECAST] Add: #1272 Additional page for Forecast Menu
+
+commit 8dc3086a7940c81ac2dd46786d839fbee21eb076
+Author: Jorgette Nicolas <michellejorgette.nicolas@ph.fujitsu.com>
+Date:   Tue Jun 23 11:38:45 2020 +0800
+
+    [FORECAST] Add: Additional page for Forecast Menu
+
+commit d8de63dd3c83e2e033a9ce4da711a15f5cac8992
+Merge: fb785ea 01178fd
+Author: Jorgette Nicolas <michellejorgette.nicolas@ph.fujitsu.com>
+Date:   Tue Jun 23 10:58:20 2020 +0800
+
+    Merge branch 'develop' of //10.164.20.176/Repositories/MIT/DEVELOPMENT/pdls-v2/client into develop
+
+commit fb785ea6a7d480fb2749644a2de07322bbde908c
+Author: Jorgette Nicolas <michellejorgette.nicolas@ph.fujitsu.com>
+Date:   Tue Jun 23 10:57:29 2020 +0800
+
+    [FORECAST] Commit: Initial Commit
+
+commit fe98889ad6d8b0515cc97d3f7c3ff082e960de26
+Merge: bc066fc 01178fd
+Author: Joyce Ethel Canubas <joyceethel.canubas@ph.fujitsu.com>
+Date:   Tue Jun 23 10:52:39 2020 +0800
+
+    Merge branch 'develop' of //10.164.20.176/Repositories/MIT/DEVELOPMENT/pdls-v2/client into develop
+
+commit bc066fc6cd095d9916714b89ca810be59e4df98c
+Author: Joyce Ethel Canubas <joyceethel.canubas@ph.fujitsu.com>
+Date:   Tue Jun 23 10:52:00 2020 +0800
+
+    System Patch
+
+commit 074e693f9b28f9753aa250826987b1a309b2c0df
+Merge: 4d3a5d0 01178fd
+Author: Afelo <edralyn.afelo@fujitsu.com>
+Date:   Tue Jun 23 10:40:04 2020 +0800
+
+    Merge branch 'develop' of //10.164.20.176/Repositories/MIT/DEVELOPMENT/pdls-v2/client into develop
+
+commit 4d3a5d0c250db87be8c4469a384d6cdb5565805a
+Author: Afelo <edralyn.afelo@fujitsu.com>
+Date:   Tue Jun 23 10:39:56 2020 +0800
+
+    System Patch
+
+commit 01178fd487f5a3209c4212665011c590e38e6af1
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Thu Jun 18 15:47:52 2020 +0800
+
+    [RECEIVING] Update: #6.9 Clear textboxes in every error.
+
+commit 18feac89c68b382bb160ceaafe00316569928ddb
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Thu Jun 18 14:23:09 2020 +0800
+
+    [RECEIVING] Update: #5.26/ 6.11 Remove area code and support in validation .
+
+commit 93b8a7036c8c655ad1bcc5947b3a4bdf32dfdefe
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Thu Jun 18 11:25:12 2020 +0800
+
+    [TRACKER SYSTEM] Update: Fix variables from API.
+
+commit 661b5a781684f205d1d27ed9f9e9450fb5f54d95
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Thu Jun 18 10:53:03 2020 +0800
+
+    [TRACKER SYSTEM] Update: Fix variables from API
+
+commit e3142d80ca5c0a683a963957864826f71e397453
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Thu Jun 18 10:47:19 2020 +0800
+
+    [TRACKER SYSTEM] Update: Fix variables from API
+
+commit f5771df11798f59364fd3bb48d8c26072d5ddfc4
+Merge: 2c8b08d 9905025
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Thu Jun 18 10:35:04 2020 +0800
+
+    Merge branch 'develop' of //10.164.20.176/Repositories/MIT/DEVELOPMENT/pdls-v2/client into develop
+
+commit 2c8b08ddc9f0b659e4fad7038bf42b82e0729a34
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Thu Jun 18 10:34:53 2020 +0800
+
+    [TRACKER SYSTEM] Update: Fix data from backend.
+
+commit 9905025aded47eafe1f5b4222c765eed4cafc2de
+Author: Rabor <jerwyn.rabor@fujitsu.com>
+Date:   Tue Jun 16 16:45:09 2020 +0800
+
+    System Patch
+
+commit 8569531311f2950cbbcd9773ce91a2fd7e178974
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Mon Jun 15 17:07:54 2020 +0800
+
+    [TRACKING SYSTEM] Update: #1670 Search the Ticket / DR Control.
+
+commit e80ea5b3d25b911c6296467ec0035fece0993d21
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Thu Jun 11 15:55:11 2020 +0800
+
+    [FOR DISPATCH] Update: Fixing Bugs.
+
+commit 3429c02e4958e3e3d9b82136c3af7280b8cdea28
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Thu Jun 11 15:12:49 2020 +0800
+
+    [PALLETIZING] Update: Fixing Bugs.
+
+commit 8072517b69b68e4637eaa65f61c3927235264e2d
+Merge: 94f1fcf 67fd9c8
+Author: Rabor <jerwyn.rabor@fujitsu.com>
+Date:   Thu Jun 11 15:08:45 2020 +0800
+
+    Merge branch 'develop' of //10.164.20.176/Repositories/MIT/DEVELOPMENT/pdls-v2/client into develop
+
+commit 94f1fcf6eff931a0f5bacc19d23dc0e058bf6abd
+Author: Rabor <jerwyn.rabor@fujitsu.com>
+Date:   Thu Jun 11 15:08:12 2020 +0800
+
+    System Patch
+
+commit 67fd9c80f1f6a0595641b578be178c874ea22e11
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Thu Jun 11 15:07:28 2020 +0800
+
+    [PALLETIZING] Update: Fixing Bugs.
+
+commit 4d02071f1e22c6eeafe367debd12fe4445c89291
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Thu Jun 4 13:30:18 2020 +0800
+
+    [PALLETIZING] Update:Fixing Bugs
+
+commit b4f5c6a0580fd95f871f896d6f30433d8d3bdeb4
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Wed Jun 3 08:50:44 2020 +0800
+
+    Fixing Bugs.
+
+commit 3ecd0fd1e03b7b1f33045ee87bcc370cc7f9bbcb
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Tue Jun 2 12:14:07 2020 +0800
+
+    Merging Conflict
+
+commit a4d127684750403ad3784781374a3c3d24840cab
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Tue Jun 2 12:11:18 2020 +0800
+
+    [RECEIVING] Add: #1584, #1329, #1303, #1588, #1333, #1339. Receiving Page and functions.
+
+commit 3955ac734e2441a26ba599c03f29677449b5c51d
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Fri May 29 11:26:47 2020 +0800
+
+    [PALLETIZING] Update: Fixing Bugs.
+
+commit b8d32465d077de40d1fe05db4fd9ee52eefbff5b
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Wed May 27 08:10:56 2020 +0800
+
+    Fixing Bugs
+
+commit ec0e31e2dbcf71ffb4413b1eb4dcdbcd8371f780
+Merge: 8cac12b 69ff936
+Author: Rabor <jerwyn.rabor@fujitsu.com>
+Date:   Mon May 25 15:06:03 2020 +0800
+
+    Merge branch 'develop' of //10.164.20.176/Repositories/MIT/DEVELOPMENT/pdls-v2/client into develop
+
+commit 8cac12b8aa3b10e3bfd60450d58617675857d936
+Author: Rabor <jerwyn.rabor@fujitsu.com>
+Date:   Mon May 25 15:05:34 2020 +0800
+
+    System Patch
+
+commit 69ff936ef7a7e6b054c4b7ab9a2dffa8491aa185
+Merge: 4b3d07d 7952998
+Author: Siron <noreenarriane.siron@fujitsu.com>
+Date:   Mon May 25 14:57:18 2020 +0800
+
+    Merge branch 'develop' of //10.164.20.176/Repositories/MIT/DEVELOPMENT/pdls-v2/client into develop
+
+commit 4b3d07d3afb55d1643ed2dff08ff23d82ecbeefe
+Author: Siron <noreenarriane.siron@fujitsu.com>
+Date:   Mon May 25 14:57:05 2020 +0800
+
+    [UPDATE DELIVERY] Update: Change the condition.
+
+commit 7952998d46f79c2e2351d3a0a36dadf38c81baed
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Mon May 25 14:55:51 2020 +0800
+
+    [PARTS WITH IRREGULARITY] Update: Fixing bugs. Actual Quantity vs Original Quantity.
+
+commit 8cc152a92c67e40807dfb116e01b91469a37a344
+Merge: f791ab2 be0aee1
+Author: Siron <noreenarriane.siron@fujitsu.com>
+Date:   Mon May 25 14:49:46 2020 +0800
+
+    Merging Conflicts
+
+commit f791ab296c1dd41f73c5daa8d8ae59ab6a2de8d0
+Author: Siron <noreenarriane.siron@fujitsu.com>
+Date:   Mon May 25 14:39:34 2020 +0800
+
+    [DESTINATION MGNT] Update: Added PDL in table
+
+commit be0aee1ca0c26e3e1cf4a67916f53246c18d7544
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Mon May 25 13:43:51 2020 +0800
+
+    [PALLETIZING] Update: Fixing Bugs. Edit Masterlist (Add New), Finish (Default Value), For DR Making (Autoload Datatable)
+
+commit ddeb3df3d98291b32db7bfa2115521f77e392bdb
+Author: Siron <noreenarriane.siron@fujitsu.com>
+Date:   Thu Mar 12 14:44:14 2020 +0800
+
+    [FOR DISPATCH] Create: #1590 Function for saving dispatch
+
+commit b6a32c512de8d8b2d1457be06c6ab5ea04f1a7c9
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Thu Mar 12 14:06:08 2020 +0800
+
+    [PALLETIZING] Update: Add destination code and manufacturing number in datatable.
+
+commit 419aea2441f9ee097037d7a3c555da748f46c693
+Author: Siron <noreenarriane.siron@fujitsu.com>
+Date:   Thu Mar 12 13:31:04 2020 +0800
+
+    [FOR DISPATCH] Create: #1586 function for getting the data from table
+
+commit b94fad7beeeacd3d739c98fa32de263c74d2d41a
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Thu Mar 12 11:29:50 2020 +0800
+
+    [PALLETIZING] Update: #1596, #1594 Added destination code and manufacturing number.
+
+commit 853298f2042e60e102716aef14faa7278bfbd383
+Author: Siron <noreenarriane.siron@fujitsu.com>
+Date:   Thu Mar 12 11:07:34 2020 +0800
+
+    [FOR DISPATCH] Create: #1575 Template for Dispatch Panel
+
+commit 03801df06d4bf8da815b11e6da7e05cf8e5e2a91
+Author: Siron <noreenarriane.siron@fujitsu.com>
+Date:   Thu Mar 12 09:15:04 2020 +0800
+
+    [BANNER PRINTING] Create: #1264 Plot data in Banner PDF
+
+commit 2ea2b39830c7338aa88b3939bca74f8bd3db21d9
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Wed Mar 11 07:56:53 2020 +0800
+
+    [REPRINT DOCUMENTS] Create: #1304 Reprint documents- load data to datatable
+
+commit 8475e560f10ecb5f44263b213521cd6087eda365
+Merge: 97ed7a1 db92527
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Tue Mar 10 13:47:09 2020 +0800
+
+    Merge branch 'develop' of //10.164.20.176/Repositories/MIT/DEVELOPMENT/pdls-v2/client into develop
+
+commit 97ed7a1a07344427b9e68829e02daad834a70135
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Tue Mar 10 13:46:59 2020 +0800
+
+    [ABOUT] Create: #1265 Add the names of developers.
+
+commit 5c35be6682ab0cd81d16ecf06f320bbff6afc7f0
+Author: Siron <noreenarriane.siron@fujitsu.com>
+Date:   Tue Mar 10 11:20:24 2020 +0800
+
+    [BANNER PRINTING] Create: #1262 Plot data of banner into fields and table
+
+commit db92527110f3e491583f6e879c4e9d2f576f69fc
+Merge: 7811897 0d982ac
+Author: Siron <noreenarriane.siron@fujitsu.com>
+Date:   Mon Mar 9 15:41:09 2020 +0800
+
+    Merge branch 'local' into develop
+
+commit 0d982ac78f8e74d158ecf666680ce4e46c898189
+Author: Siron <noreenarriane.siron@fujitsu.com>
+Date:   Mon Mar 9 15:40:45 2020 +0800
+
+    [REMARKS] Update : Added id in parameter to be pass to BE
+
+commit 781189788948ae587575bc03917c46b3078d3a16
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Mon Mar 9 10:34:49 2020 +0800
+
+    [USER MANAGEMENT] Update: #1088 Chabge in columns and UI
+
+commit 01a22873e4dff539e0a8d423fe559c604785bf9c
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Fri Mar 6 17:15:27 2020 +0800
+
+    [USER MANAGEMENT] Update: Add column for support.
+
+commit 2efe3e465d0254eca9059b3f1ceda4ea6a48cbe2
+Merge: a53ceb3 da1b17b
+Author: Siron <noreenarriane.siron@fujitsu.com>
+Date:   Fri Mar 6 09:53:47 2020 +0800
+
+    Merging Conflict
+
+commit a53ceb3de068427b834e28e297c45675cbb198d3
+Author: Siron <noreenarriane.siron@fujitsu.com>
+Date:   Fri Mar 6 09:50:24 2020 +0800
+
+    [LEADTIME REPORT] Create: #977 User Interface #979 Load Data to datatable.
+
+commit da1b17b10c4df0bcfe8e21e63cd5ef3343bd4572
+Merge: dda781a 19c76f5
+Author: Rabor <jerwyn.rabor@fujitsu.com>
+Date:   Fri Mar 6 09:08:37 2020 +0800
+
+    Merging branch
+
+commit dda781a578e6458d6e2fba36ba6e85a7692a6445
+Author: Rabor <jerwyn.rabor@fujitsu.com>
+Date:   Fri Mar 6 09:08:12 2020 +0800
+
+    Fix Bugs
+
+commit 19c76f5e8233dadfaffb18c0c62f01ab39eee30b
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Fri Mar 6 09:05:59 2020 +0800
+
+    [PDF IRREGULARITY] Update: Change the path for pdf.
+
+commit 883ff388b36c0449a0c4c8cf5b1f8c88f3d8fac9
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Fri Mar 6 09:05:23 2020 +0800
+
+    [PDF IRREGULARITY] Update: Remove DR Control column and Add Barcode column.
+
+commit c3b860c7e3319ca4278c6531c143ca198b8fb201
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Fri Mar 6 08:59:06 2020 +0800
+
+    [DR MAKING] Update: Uncomment pdf dr making.
+
+commit c951550216c7d314d5a5d0b6e93a0acafeab554b
+Merge: 169096d db6c4c7
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Fri Mar 6 08:50:55 2020 +0800
+
+    Merging Conflict
+
+commit db6c4c750d25903ab6f8894eea8e5a41a895eb74
+Merge: 90080c0 f4e0103
+Author: Rabor <jerwyn.rabor@fujitsu.com>
+Date:   Fri Mar 6 08:30:45 2020 +0800
+
+    Merging Conflict
+
+commit 169096d524d766833fbd8be0f6b8c656ba37168f
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Thu Mar 5 20:49:57 2020 +0800
+
+    [TEMPLATE] Create: #1085, #1084, #1083 Add sound in barcoding if ticket no did not proceed in temporary table
+
+commit f4e0103a258b26e4f7403e643bf5c5f6e89a8b8a
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Thu Mar 5 20:05:28 2020 +0800
+
+    [DR MAKING] Update: Fix bugs.
+
+commit 90080c0fa15f6f995afcbada5e14e13e546fa08f
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Thu Mar 5 20:00:13 2020 +0800
+
+    [DR PRINTING] Update: Fix Bugs
+
+commit 40ccbfc038b6396d36c7f67f8ee1773c6e8f8f05
+Author: Siron <noreenarriane.siron@fujitsu.com>
+Date:   Thu Mar 5 09:21:42 2020 +0800
+
+    [OVERALL GRAPH] Create: #1069 Create user interface
+
+commit a976b611e4580b31447e8bf9c45a1219162a72f7
+Merge: bc4acfb 1b92eca
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Thu Mar 5 08:22:24 2020 +0800
+
+    Merging Conflct
+
+commit bc4acfb29c4ff6c7c012f7e4b2606a3211c71381
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Thu Mar 5 08:21:00 2020 +0800
+
+    [TEMPLATE] Update: Fix bugs
+
+commit 242492449d7e83e34f5594b0a7a5e5354b386473
+Author: Siron <noreenarriane.siron@fujitsu.com>
+Date:   Wed Mar 4 11:26:32 2020 +0800
+
+    [PALLET REPORT] Create: #1043 Load data to datatable
+
+commit 90ceac9151207f5b7a93786150d467919fd2b0ad
+Author: Siron <noreenarriane.siron@fujitsu.com>
+Date:   Wed Mar 4 10:43:12 2020 +0800
+
+    [PALLET REPORT] Create: #1036 Create user interface
+
+commit 416e1705eed3bff5bf78b93f8bb98ab0885c706b
+Author: Siron <noreenarriane.siron@fujitsu.com>
+Date:   Wed Mar 4 10:29:28 2020 +0800
+
+    [LEADTIME REPORT] Create: #979 Load data to datatable
+
+commit cb525a700e2d36f0fe78e9e435ac42b2b8a99ade
+Author: Siron <noreenarriane.siron@fujitsu.com>
+Date:   Wed Mar 4 10:28:13 2020 +0800
+
+    [LEADTIME REPORT] Create: #977 Create user interface
+
+commit 3336d24e56e4e523401860762acd75341ec6fef0
+Author: Siron <noreenarriane.siron@fujitsu.com>
+Date:   Tue Mar 3 15:03:29 2020 +0800
+
+    [REMARKS] Create: #1059 Added new function for removing remarks
+
+commit 543b53cbdda8eb2e2d0fce40803ea9d12c9d020e
+Author: Siron <noreenarriane.siron@fujitsu.com>
+Date:   Tue Mar 3 14:28:06 2020 +0800
+
+    [REMARKS] Create: #1053 Added new function for updating remarks
+
+commit e851b5189a6d6a849475ce355b2dcf4c52fa0d92
+Author: Siron <noreenarriane.siron@fujitsu.com>
+Date:   Tue Mar 3 14:19:52 2020 +0800
+
+    [REMARKS] Create: #1048 Added new function for loading of remarks and corrective action
+
+commit b5652a5d603ca5395e01d314d26d677e96977286
+Author: Siron <noreenarriane.siron@fujitsu.com>
+Date:   Tue Mar 3 14:18:39 2020 +0800
+
+    [REMARKS] Create: #1040 Added new function for Add Remarks
+
+commit a9530e2428410154c975ef3a3cb6299330919824
+Author: Siron <noreenarriane.siron@fujitsu.com>
+Date:   Tue Mar 3 12:10:35 2020 +0800
+
+    [DELIVERY DATA] Create: #973 Load data in datatable
+
+commit 1b92eca172e0b415370394ab0504f64d633656da
+Author: Siron <noreenarriane.siron@fujitsu.com>
+Date:   Tue Mar 3 09:07:54 2020 +0800
+
+    [DEBUGGING] Update: Changed local links to 173
+
+commit 1ddeeb5d85bcf2e28fc96ca5e890d672c2136685
+Author: Siron <noreenarriane.siron@fujitsu.com>
+Date:   Mon Mar 2 17:24:13 2020 +0800
+
+    [DEBUGGING] Update: #950 Cannot access login page and added fallback function
+
+commit a2a9287bcd3512dc956b15dc016ce277deebb26a
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Mon Mar 2 11:06:30 2020 +0800
+
+    [TEMPLATE] Update: Add offline font for sweetalert
+
+commit c9004ff75736558b09be07c955bff27deb03c488
+Merge: 991a77d 0a846ea
+Author: Siron <noreenarriane.siron@fujitsu.com>
+Date:   Mon Mar 2 10:38:47 2020 +0800
+
+    Merging Conflict
+
+commit 0a846eabb13f774ca3bc38432e5b8bbd3f3da8e7
+Author: Siron <noreenarriane.siron@fujitsu.com>
+Date:   Mon Mar 2 10:31:17 2020 +0800
+
+    [TEMPLATE] Update: Fix bugs
+
+commit 991a77dd67c310ee65caa42438e6060c285997ef
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Mon Mar 2 10:29:53 2020 +0800
+
+    [PALLETIZING] Update: Fix bugs.
+
+commit 6b85e0efa636ddde44d2cfe440b26b1f21e31297
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Thu Feb 27 13:34:42 2020 +0800
+
+    [DASHBOARD] Update: Added delivery status chart.
+
+commit 3f5dd2a07d64629caa25b643150f108bdf126ff5
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Thu Feb 27 09:52:51 2020 +0800
+
+    [TEMPLATE] Update: Remove external websites access.
+
+commit 1ba1163d3cce7af0f04e36b8ea32f13867116657
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Thu Feb 27 09:47:39 2020 +0800
+
+    [TEMPLATE] Update: Remove external websites access.
+
+commit 1cac50d60742abc1b91119281ca73913488e93e4
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Thu Feb 27 09:37:10 2020 +0800
+
+    [TRANSACTION UPDATE DELIVERY MENU] Update: Added user_id in request as requested by BE.
+
+commit f52840711c940baad9577cdde9550ad212a60906
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Wed Feb 26 14:41:23 2020 +0800
+
+    [MONITORING REPORT] #960 Delivery Status Count.
+
+commit db3ca79ac60db6b7d5ec584f2c90155e48303130
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Wed Feb 26 08:56:56 2020 +0800
+
+    [MONITORING REPORT] Create: #965 Issuance per payee name delivery quantity.
+
+commit 6560e4c6dc743d591af4a56419614c744725d016
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Fri Feb 21 08:11:35 2020 +0800
+
+    [MONITORING REPORT] Add: #963 #965 #960 Added dynamic table base on search
+
+commit ea2055064bce32d6de9a13f37db5fa17aa35b94c
+Merge: 457cdda 8ca4287
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Wed Feb 19 12:36:50 2020 +0800
+
+    Merging Conflict
+
+commit 457cdda9d265bae989ec7a282823958aa79f733a
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Wed Feb 19 11:32:40 2020 +0800
+
+    Merging Conflict
+
+commit aee010a09c62066f13d808e921da884123ffc730
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Wed Feb 19 10:55:29 2020 +0800
+
+    [DR Making] Update: #954 Generate PDF added Sakura CD39 as font
+
+commit 8ca42873a472981d1f0f9a3f99e0fcc145cb6454
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Tue Feb 18 13:29:00 2020 +0800
+
+    [TEMPLATE] Update: Added footer in PDF
+
+commit 89fe2623139b400d979f106e00f8035300c9e921
+Merge: 571d09b cb1bf13
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Tue Feb 18 10:52:46 2020 +0800
+
+    Merge branch 'local' into develop
+
+commit cb1bf1321a496c76483f3a473ed53c1a845e14f9
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Tue Feb 18 10:35:41 2020 +0800
+
+    [TEMPLATE] Update: Plot data in DR Making PDF
+
+commit 571d09bd22c46fd19984a9774ac3e124e93d3063
+Merge: 0085c54 aa61c2a
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Mon Feb 17 16:12:45 2020 +0800
+
+    Merging Conflict
+
+commit 0085c54418072135c6796dd729c7c9357e90baa2
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Mon Feb 17 16:04:39 2020 +0800
+
+    [DR MAKING] Update: #923 Change get to post.
+
+commit aa61c2a3833e8bcd4d4b2a76819d3bdfb4f8d5d9
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Mon Feb 17 15:54:31 2020 +0800
+
+    [TEMPLATE] Update: Template of PDF in DR Making
+
+commit 9dba417150eb9c4093db6b2c9ed36ff336edb12b
+Merge: f5dc4bb 1d23a2d
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Fri Feb 14 14:13:06 2020 +0800
+
+    Merging Conflict
+
+commit f5dc4bbc688a121cedd55fed1e3c22131e83c565
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Fri Feb 14 14:11:04 2020 +0800
+
+    [TEMPLATE] Create: #931 Template of PDF in DR Making
+
+commit 1d23a2d9c0cdfcc73aa87e8522ecc7ae302b34d1
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Fri Feb 14 11:12:31 2020 +0800
+
+    [DR Making] Update: Added the axios and get data from the API
+
+commit d85b6de14f982d3191e16e6380c1dc4236df788a
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Thu Feb 13 16:30:55 2020 +0800
+
+    [TRANSACTION FOR DELIVERY] #928: Template auto load data from API and load fullname based on login
+
+commit d63c33ffb415cf38aa8e494cced1fe0be409b0b5
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Thu Feb 13 09:30:49 2020 +0800
+
+    [DR MAKING] Create: #954 Generate PDF passing data to PDF file.
+
+commit 3533041e6c9e404bc4aed24638ee53a307a938e1
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Wed Feb 12 13:42:25 2020 +0800
+
+    [DR MAKING] Update: Added the Back-end API
+
+commit 7e30f8f738e113401ed1cfad62d321eff65a349e
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Wed Feb 12 12:19:50 2020 +0800
+
+    [DR MAKING] Create: #923 Modal UI
+
+commit 6ebbb0b91d57129d3817e5cb6ac60bb06276125e
+Merge: 27fb9ea 91b72c6
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Wed Feb 12 08:16:28 2020 +0800
+
+    Merge branch 'develop' of //10.164.20.176/Repositories/MIT/DEVELOPMENT/pdls-v2/client into develop
+
+commit 27fb9ea25567bf104bbe1385583e630af5fbb343
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Wed Feb 12 08:16:18 2020 +0800
+
+    [MONITORING] Update: #949 Search with blank date is not allowed
+
+commit 91b72c67c50435fe5a70e7d862561806170f1de2
+Merge: ef902e5 12b9048
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Tue Feb 11 14:56:54 2020 +0800
+
+    Merge branch 'local' into develop
+
+commit 12b904817c186f6808d647dcef30746f008907ed
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Tue Feb 11 14:55:53 2020 +0800
+
+    [DEBUGGING] Update: #944 Fixed data for type of irregularity in datatable
+
+commit e193aa42730e48754ca76f102ff12f7fb27f3a54
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Tue Feb 11 14:46:21 2020 +0800
+
+    [DEBUGGING] Update: #948 Remove sweetalert in update button
+
+commit ef902e504f51ee11a0a932dea1a086c135fec7a4
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Tue Feb 11 14:41:29 2020 +0800
+
+    [UPDATE MENU] Update: #945 Allow only textbox with content in search
+
+commit 3955b5b3a81770b1cee8834452e8fd9c95cf7345
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Tue Feb 11 14:31:06 2020 +0800
+
+    [REVISION TEMPLATE] Update: #947 Empty textbox if didn't pass validations
+
+commit 0ac50afd20dbef3ca616db9758b4b1ea3cb6a293
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Tue Feb 11 14:23:04 2020 +0800
+
+    [UPDATE MENU] Update: #945 Allow only textbox with content in search
+
+commit f9b5de62d6e63abe52f90d8b063dfd69358183f3
+Merge: f7ed52b 9ba65a9
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Tue Feb 11 14:15:14 2020 +0800
+
+    Merge branch 'develop' of //10.164.20.176/Repositories/MIT/DEVELOPMENT/pdls-v2/client into develop
+
+commit f7ed52b419925b80df7955762e90b38f03743c17
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Tue Feb 11 14:15:04 2020 +0800
+
+    [UPDATE MENU] Update: #945 Allow only textbox with content in search
+
+commit 9ba65a986eda4ae2b1ad6cd9811b97c4dcf2e14e
+Merge: 13c349b d3f188e
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Tue Feb 11 14:14:48 2020 +0800
+
+    Merge branch 'local' into develop
+
+commit d3f188e27937b45f08f29a9b220b352850998474
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Tue Feb 11 14:14:18 2020 +0800
+
+    [DEBUGGING] Update: #943  Disable input for others after add/clear, enable barcode after clear, empty textbox if error
+
+commit 13c349b91a9992e49ec6fd496cf4b1ea5f05f667
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Tue Feb 11 14:01:59 2020 +0800
+
+    [LOGIN MODULE] Update: Added a logo
+
+commit 5578350d4bb53957eb535e42b2246bff16d638ad
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Tue Feb 11 10:32:50 2020 +0800
+
+    [TEMPLATE] Update: Changed method delete to get in remove_palletizing
+
+commit 634e76c5e64b8d6efaabbf9771f7c3b9c03e9fc4
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Tue Feb 11 08:29:52 2020 +0800
+
+    [PALLETIZING MENU FINISH PALLETIZING PANEL] #921 Pop-up modal and clear inputs after save.
+
+commit 397bdff71def335187efdf05c5f2a873c3e566f2
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Tue Feb 11 08:01:31 2020 +0800
+
+    [TEMPLATE] Update: Replace patch into post in Finish Palletizing function
+
+commit e780fa613caab7b40fa8bfb4c811f86ae02d620d
+Merge: 1b82612 7a9f52f
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Mon Feb 10 16:10:13 2020 +0800
+
+    Merging Conflict
+
+commit 7a9f52ff3dbf0312463a6c46748039846aefd01c
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Mon Feb 10 16:07:45 2020 +0800
+
+    [TEMPLATE] Create: #917 Function for Update button in Finish Palletizing
+
+commit 1b82612df5b950ab4e178e88b0b633824e59cbee
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Mon Feb 10 15:55:46 2020 +0800
+
+    [TRANSACTION PALLETIZING FINISHING] #916 Template finish palletizing panel
+
+commit a6f34c354afdfd42e04b3bbee6bb8c160ea19e46
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Mon Feb 10 15:53:26 2020 +0800
+
+    [TEMPLATE] Create: #913 Validation for finish button, load DR Control in input box
+
+commit db39ff97e2ac69c9cb0349e81ad53d2c243aa949
+Merge: 8dbb99b a3e9ea9
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Mon Feb 10 14:38:10 2020 +0800
+
+    Merge branch 'develop' of //10.164.20.176/Repositories/MIT/DEVELOPMENT/pdls-v2/client into develop
+
+commit 8dbb99b0c5557fc73548360043dbf7a5b7313f2a
+Merge: 82d3ae5 5bee481
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Mon Feb 10 14:37:41 2020 +0800
+
+    Merging Conflict
+
+commit a3e9ea922266b7e456d4474b3ebdec3c6f080da8
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Mon Feb 10 14:36:24 2020 +0800
+
+    Merging Conflict
+
+commit 5bee481f48b20371b3b53916adc899ca099cae39
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Mon Feb 10 14:33:49 2020 +0800
+
+    [TEMPLATE] Create: #925 Added button cancel, hide panel, validation of buttons in Masterlist table
+
+commit 82d3ae59014f4d0f11677be14478f81491019540
+Merge: 24373fb 5e9cf54
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Mon Feb 10 14:29:45 2020 +0800
+
+    Merging Conflict
+
+commit 24373fb75c7d0affae361eb85a01ce615a0331f8
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Mon Feb 10 14:28:01 2020 +0800
+
+    [TRANSACTION PALLETIZING] #909 Additional palletizing data
+
+commit 5e9cf54fbe49fa1a07dcc8a3b48a7a072e312026
+Merge: a34f052 e781848
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Mon Feb 10 11:13:55 2020 +0800
+
+    Merging Conflict
+
+commit a34f0523305efee1990da15f820b53ef2a47f149
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Mon Feb 10 11:03:33 2020 +0800
+
+    [TEMPLATE] Update: Added users_id in data for insert palletizing
+
+commit e7818486c6b9286a34085ea8cef21d38e8fd676e
+Merge: 6cf9a5e d371a1b
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Mon Feb 10 10:55:25 2020 +0800
+
+    Merging Conflcit
+
+commit 6cf9a5e306c533f4c11ea2b59776c2b56d61612b
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Mon Feb 10 10:52:17 2020 +0800
+
+    [TRANSACTION PALLETIZING] #907 Get data from monitoring
+
+commit d371a1bfd09c4daeb581a4329f5c22635927483a
+Merge: dd17aad 13538c7
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Mon Feb 10 09:52:43 2020 +0800
+
+    Merge branch 'local' into develop
+
+commit 13538c7a17b4278b8a81f2b3332469a840bf3e5c
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Mon Feb 10 09:52:17 2020 +0800
+
+    [TEMPLATE] Update: Data for insert of palletizing
+
+commit 948e4d4156a2e92d622afd9d44241628aeb72e14
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Mon Feb 10 09:19:07 2020 +0800
+
+    [TEMPLATE, PLOTTING] Create: Function for Remove palletizing data
+
+commit 6882dc59480c51c0d4802183f6e10db5631832b2
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Mon Feb 10 09:18:25 2020 +0800
+
+    [TEMPLATE, PLOTTING] Create:
+
+commit dd17aadcdb62d7ac6eeea71227853f836fad2080
+Merge: ed955b3 a21ab3a
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Fri Feb 7 17:17:22 2020 +0800
+
+    Merging Conflict
+
+commit a21ab3a377919dd243b8eb86ae7c51dd1c7b98a2
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Fri Feb 7 17:14:57 2020 +0800
+
+    [TEMPLATE] Update: Rowsgroup in table of For Palletizing
+
+commit ed955b3a8347e8c2453d3ca9114bf3732603e044
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Fri Feb 7 17:14:07 2020 +0800
+
+    [TRANSACTION PALLETIZING MENU] Update: Fix error in container collapse
+
+commit 5eb1d265c19a67e280b879bc4172df33d061ef0a
+Merge: fcf4ee2 4db3383
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Fri Feb 7 15:55:36 2020 +0800
+
+    Merge branch 'local' into develop
+
+commit fcf4ee2e84b0e53845d257618018479ce1f46b7e
+Merge: 6ba2af0 8d658fa
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Fri Feb 7 15:53:37 2020 +0800
+
+    Merge branch 'develop' of //10.164.20.176/Repositories/MIT/DEVELOPMENT/pdls-v2/client into develop
+
+commit 6ba2af055cf30378b8c3e0534d87dbc6ef65f378
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Fri Feb 7 15:53:28 2020 +0800
+
+    [TRANSACTION PALLETIZING MENU] Create: Plot the data in datatable
+
+commit 4db3383c003f377d9d7ec52e049fc0a8a9c7c55f
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Fri Feb 7 15:52:11 2020 +0800
+
+    [TEMPLATE] Update: Changed process into uppercase
+
+commit 8d658fa399d13779bdc2c5ca8388a45cdee97ab9
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Fri Feb 7 15:37:05 2020 +0800
+
+    [TEMPLATE] Update: Layout of Palletizing
+
+commit f1a56caf7a72fad6b849050d603903192a2f6832
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Fri Feb 7 15:34:56 2020 +0800
+
+    [TEMPLATE] Update: Hide For Palletizing Panel
+
+commit 06d766d1bc62834d70ff89e2df2cdc57fb60c8bf
+Merge: 30ccea5 3f6f3a5
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Fri Feb 7 15:02:33 2020 +0800
+
+    Merging Conflict
+
+commit 30ccea5f7e7b8f692e7f371d4ee7daf0badba76b
+Merge: b118e32 8c852c2
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Fri Feb 7 14:59:41 2020 +0800
+
+    Merging Conflict
+
+commit b118e32d05f672a15a6ed99da4c1669631a4e797
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Fri Feb 7 14:57:44 2020 +0800
+
+    Merging Conflict
+
+commit 3f6f3a52643904dcb776b29239c78ddefe85f1b7
+Merge: c7d5b80 7a1689c
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Fri Feb 7 14:56:13 2020 +0800
+
+    Merge branch 'local' into develop
+
+commit c7d5b80e1b823287221cf736e1076e915129dc93
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Fri Feb 7 14:56:08 2020 +0800
+
+    Merging Conflict
+
+commit 7a1689c701983a6982108411f50e0b1a1448f2b4
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Fri Feb 7 14:53:28 2020 +0800
+
+    [TEMPLATE] Update: Changed icons in Ongoing Palletizing
+
+commit 8c852c27cba4de8115eb37db95413792946b3d5c
+Merge: e201612 2cb00b8
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Fri Feb 7 14:46:02 2020 +0800
+
+    Merging Conflict
+
+commit e2016121e531fc8dc02db74e8f70912a9750feca
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Fri Feb 7 14:45:26 2020 +0800
+
+    [TRANSACTION PALLETIZING MENU] Update: Added total items for normal and irregularity
+
+commit 2cb00b86125a4e781c2faac879c54ae331cd3e7b
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Fri Feb 7 14:43:53 2020 +0800
+
+    [TEMPLATE] Create: #901 Ongoing Palletizing Panel and Table
+
+commit 94c695f7d1b7bc4e0ed292f542dba79edb456b5d
+Merge: 14deef0 c33ddd6
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Fri Feb 7 13:39:33 2020 +0800
+
+    Merging Conflic
+
+commit 14deef0239be877a33d49d4ebdf615da74b446c2
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Fri Feb 7 13:36:47 2020 +0800
+
+    [TRANSACTION PALLETIZING MENU] Update: Added process id in validation
+
+commit c33ddd64e0ea271cc4236e1c38583620574b83ae
+Merge: c60867d 8e0941c
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Fri Feb 7 13:35:11 2020 +0800
+
+    Merging Conflict
+
+commit c60867d12dfcfedaa15876470fc9dfae55302c07
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Fri Feb 7 11:54:23 2020 +0800
+
+    [TEMPLATE] Update: Hide and show panel for Palletizing
+
+commit 8e0941c943e811a443a7b50b07b63523ed629535
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Fri Feb 7 11:53:48 2020 +0800
+
+    Merging Conflict
+
+commit 8c3714b18dd5042a20186a8f7b1b4d9446fbff41
+Merge: d47b63b 9c3a012
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Fri Feb 7 11:44:53 2020 +0800
+
+    Merging Conflict
+
+commit d47b63b7427268661a36cb2ecf2f8ba6a6ba6f23
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Fri Feb 7 11:23:07 2020 +0800
+
+    [TRANSACTION PALLETIZING MENU] Create: #755, #756 Plot in delivery type, template after barcode
+
+commit 9c3a012d82e0086d529695d543118e0fe732cea9
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Fri Feb 7 11:12:47 2020 +0800
+
+    [TEMPLATE] Create: Prepared the data and created a function for insert of palletizing
+
+commit c1730a8280c4ec95b9bfacee69ee3ceb7b3d38a3
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Fri Feb 7 11:10:46 2020 +0800
+
+    [PLOTTING] Create: Plot temporary data into Normal and Irregularity table
+
+commit 9b5ac357fd505efefbcd71165ccef097c2583217
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Thu Feb 6 12:17:05 2020 +0800
+
+    [TEMPLATE] Update: Re-arranged the inputs in Irregularity (Create and Update)
+
+commit 6deb35a0d5ff30a851d382e3792f7ae744e80af2
+Merge: 790e261 75c6771
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Thu Feb 6 10:32:52 2020 +0800
+
+    Merging Conflict
+
+commit 75c67717b05ccd1f4c8504a54c834ebb229890de
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Thu Feb 6 10:23:17 2020 +0800
+
+    [DEBUGGING] Update: Added Action column in List of Irregularity
+
+commit 790e261effef88f71fad2b6f36c50c6bae8e130d
+Author: Jerwyn Rabor <jerwyn.rabor@ph.fujitsu.com>
+Date:   Thu Feb 6 09:59:08 2020 +0800
+
+    System Patch
+
+commit bec77450c1afe1fd3f3c446fb66eb3b29fe5212f
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Wed Feb 5 16:48:11 2020 +0800
+
+    Merging Conflict
+
+commit ed43f4eb886806d39c9ead82fce150d96f3180fa
+Merge: 5a7fc3b d4dcf3a
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Wed Feb 5 16:35:44 2020 +0800
+
+    Merge branch 'develop' of //10.164.20.176/Repositories/MIT/DEVELOPMENT/pdls-v2/client into develop
+
+commit 5a7fc3bdf113cd76ab4675120d294080cb2eabc3
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Wed Feb 5 16:35:33 2020 +0800
+
+    [LEADTIME DATA] Update: Get the value from API
+
+commit d4dcf3ab6a712ff5cbb63e09c5a1ccefb0a7295f
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Wed Feb 5 15:08:27 2020 +0800
+
+    [DEBUGGING] Update: Change validation for Checking
+
+commit 6c7cc4b1c6464ab783fceece8d97ce77a72dbf96
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Wed Feb 5 13:30:47 2020 +0800
+
+    [DEBUGGING] Delete: Update in Irregularity
+
+commit 35ee262e8c33c80537d885ec1ba9fa50cec1c42d
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Wed Feb 5 12:20:12 2020 +0800
+
+    Merging Conflict
+
+commit 0ff4bd34f84d7d80fa20b54630d5badbd49a27e0
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Wed Feb 5 12:09:24 2020 +0800
+
+    Merging Conflict
+
+commit 251bfb96d7a48af0884fedcb42ab4755473eb369
+Merge: 61d14cf 5489b75
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Wed Feb 5 11:59:55 2020 +0800
+
+    Merge branch 'local' into develop
+
+commit 5489b7554ae289e0aeb61e2584b8d72d4a1deffc
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Wed Feb 5 11:59:32 2020 +0800
+
+    [DEBUGGING] Update: Added validation for Update of Irregularity
+
+commit 61d14cf443019fddf25fb8b801f5ced9106a7bff
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Wed Feb 5 11:48:54 2020 +0800
+
+    Merging Conflict
+
+commit 3736ad3f810f27ca4f431afb6dd6f8145ba55a87
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Wed Feb 5 11:28:25 2020 +0800
+
+    Merging Conflict
+
+commit a5a9e421692ae0c87d5a32619dd877acd892766a
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Wed Feb 5 11:25:56 2020 +0800
+
+    Merging Conflict
+
+commit 40388b041b347e41d2c49c9fe5633625e15d45eb
+Merge: 0e47c80 ef46e1e
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Wed Feb 5 11:23:11 2020 +0800
+
+    Mergin Conflict
+
+commit 0e47c80f4627b5893f1494a0e610f28ea6197c8b
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Wed Feb 5 11:22:13 2020 +0800
+
+    [IRREGULARITY CREATE MENU] Update: Added control number in PDF from API
+
+commit ef46e1e5706a7ca2beb55e7e5c8b42b3aed800a7
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Wed Feb 5 10:58:33 2020 +0800
+
+    [DEBUGGING] Update: Master Data, Parts Status, Managements
+
+commit 66190e62b065e857d35aa834f3dc049fd26d5ba4
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Tue Feb 4 17:01:20 2020 +0800
+
+    [MONITORING MASTER DATA MENU] Update: Uncommenting of axios after API is ready
+
+commit e975e60370e3fa683bba30afd52bdc3700504f21
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Tue Feb 4 16:55:49 2020 +0800
+
+    [MONITORING MASTER DATA MENU] Update: Uncommenting of axios after API is ready
+
+commit 195a92fde8c393745abfc1d2911c07b61f6bd4f3
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Tue Feb 4 15:05:09 2020 +0800
+
+    [MONITORING PARTS STATUS MENU] Update: Uncommenting of axios after API is ready
+
+commit 3fb364a113b6449824ff234fbfdc344a233c165d
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Tue Feb 4 11:17:49 2020 +0800
+
+    [MONITORING PARTS STATUS] Create: #894, #896 Load data from API to datatable
+
+commit db05cb4dc9688d358d91672c4c4919b3b8ffbbec
+Merge: 87b7d00 945d02a
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Tue Feb 4 10:51:18 2020 +0800
+
+    Merge branch 'develop' of //10.164.20.176/Repositories/MIT/DEVELOPMENT/pdls-v2/client into develop
+
+commit 87b7d005d4e034ef93b208d514a6c36f83b2a339
+Merge: 33b7b17 9af26bb
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Tue Feb 4 10:50:30 2020 +0800
+
+    Merging Conflict
+
+commit 945d02afacccd8b8c79a64c86fcb5386d0133fd1
+Merge: 9af26bb ec8635f
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Tue Feb 4 10:49:36 2020 +0800
+
+    Merge branch 'local' into develop
+
+commit ec8635f67c88020412c2a823771eac894b7b56a4
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Tue Feb 4 10:49:10 2020 +0800
+
+    [TEMPLATE] Create: #893 Range for Parts Status Menu
+
+commit 33b7b175235f196ff39e566f291233103eb10adc
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Tue Feb 4 10:43:18 2020 +0800
+
+    [MONITORING LEADTIME DATA MENU] Create: #890, #892 Load data from API to datatable
+
+commit 9af26bb814bc61d5ebd18244a86604c69c00707d
+Merge: 1ad561b ec0957c
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Tue Feb 4 10:37:39 2020 +0800
+
+    Merge branch 'local' into develop
+
+commit ec0957c8aa1872133d1c282401ff86a40325045c
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Tue Feb 4 10:37:11 2020 +0800
+
+    [TEMPLATE] Create: #889 Range for Leadtime Data Menu
+
+commit 1ad561bf3298a90bfd2be86aa08d84a4d479169c
+Merge: 0bbcb2d bac1bd0
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Tue Feb 4 10:22:13 2020 +0800
+
+    Merging Conflict
+
+commit bac1bd04670f319a5005842a043ca4e423bd11b8
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Tue Feb 4 09:55:07 2020 +0800
+
+    [TEMPLATE] Create: #885 Range for Master Data Menu
+
+commit 0bbcb2daf21016ec011421d8ffd5272fcb31f621
+Merge: 6b73a4b 981b4ac
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Tue Feb 4 09:47:40 2020 +0800
+
+    Merging Conflict
+
+commit 6b73a4bda4a4e1b505cdbc44e3f1a9004e4ea50f
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Tue Feb 4 09:46:26 2020 +0800
+
+    [MONITORING MASTER DATA MENU] Create: #886, #888 Load values from search to the datatable
+
+commit 981b4ac4c60cbe0dfa67bc3369977fac6633bc3d
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Tue Feb 4 08:45:19 2020 +0800
+
+    [TEMPLATE] Update: Added clear function for table after updating
+
+commit e0e11041ec91bdbdab18923ec3d3c9ff8fe3e9ce
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Tue Feb 4 08:18:04 2020 +0800
+
+    [TEMPLATE] Update: Changed normal to ticket_no in Update
+
+commit c0dbf4e6dc9d9e5f6ed15ba38f3ec2a95d865caa
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Mon Feb 3 17:23:43 2020 +0800
+
+    [TEMPLATE] Update: Update api for Update of Checking
+
+commit 47efa8a0cb7fcd85aa9e805cb70152d5a48566e9
+Merge: 29ae3b7 a6d69f4
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Mon Feb 3 16:55:49 2020 +0800
+
+    Merge branch 'local' into develop
+
+commit a6d69f489422f7a341b7d71d169d7ad70b0c3e05
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Mon Feb 3 16:55:31 2020 +0800
+
+    [TEMPLATE] Update: Function for Update, called the clear function after success
+
+commit 29ae3b73857427b0e13eba4dfec7a898725a0110
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Mon Feb 3 16:51:26 2020 +0800
+
+    [CHECKING MENU] Update: #749 remove space in barcode
+
+commit 1a0242d0e0084dd50930751fdbcdcb04cd662147
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Mon Feb 3 16:12:19 2020 +0800
+
+    [CHECKING MENU] Update: #749 Plotting of data from BE
+
+commit 3704ec3d1d85ae7e04c88dc74f02008c45bcd665
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Mon Feb 3 15:41:30 2020 +0800
+
+    [CHECKING MENU] Update: #749 Plotting of data from BE
+
+commit d7aabc432014d2f8d37d3f8802c2ca6030519a02
+Merge: 634e892 d7fa3bf
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Mon Feb 3 15:31:39 2020 +0800
+
+    Merge branch 'develop' of //10.164.20.176/Repositories/MIT/DEVELOPMENT/pdls-v2/client into develop
+
+commit 634e8926f1051648715bd3a249b9dcfd1bf17e54
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Mon Feb 3 15:31:35 2020 +0800
+
+    [CHECKING MENU] Update: #749 Plotting of transaction in datatable
+
+commit d7fa3bf390b1d28e52dfa8dae7daef155e7345df
+Merge: 39314a4 66daa41
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Mon Feb 3 15:09:23 2020 +0800
+
+    Merge branch 'local' into develop
+
+commit 66daa41009168c6b969488d3b6c8a75e5c138b49
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Mon Feb 3 15:08:30 2020 +0800
+
+    [TEMPLATE] Create: #751 Prepared the array of data to be given to BE in Update
+
+commit 39314a4b2ba56b8a9319ad43f79a06241a591834
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Mon Feb 3 14:49:48 2020 +0800
+
+    [CHECKING MENU] Update: #749 Plotting of transaction in datatable
+
+commit 2307d7b41c1ba9b8ccc23d074d0f131789b34d03
+Merge: c2332fe 77be2f4
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Mon Feb 3 13:27:47 2020 +0800
+
+    Merging Conflict
+
+commit c2332fe4b79f4f4d6cadfa10288c477120b01fb6
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Mon Feb 3 11:58:38 2020 +0800
+
+    [TEMPLATE] Create: #747 Create Modal for Checking
+
+commit 77be2f43d919fce47dc9981b36576828c8f38c59
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Mon Feb 3 11:56:07 2020 +0800
+
+    [CHECKING MENU] Update: Added process in table
+
+commit c01c5a54753abeb5a5c918c969ccbd907dcedc64
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Mon Feb 3 11:39:52 2020 +0800
+
+    [CHECKING MENU] Create: #741 Add in table upon enter in textbox (txt_barcode)
+
+commit f3d3f6cb174e192c93e1143aaf5db9966244fd7c
+Merge: 8744cec 20f24c4
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Mon Feb 3 10:28:15 2020 +0800
+
+    Merge branch 'local' into develop
+
+commit 20f24c48b65e1883dccb60c0655b4f4d7b1a451b
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Mon Feb 3 10:27:46 2020 +0800
+
+    Merging Conflict
+
+commit 8744ceceed3c3c1d40827aec8f36d8efe3d795ea
+Merge: 35e225a abfa615
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Mon Feb 3 10:26:17 2020 +0800
+
+    Merge branch 'develop' of //10.164.20.176/Repositories/MIT/DEVELOPMENT/pdls-v2/client into develop
+
+commit 35e225a00cb5a739b651eee758c3aab8bb16198c
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Mon Feb 3 10:26:04 2020 +0800
+
+    [LOGIN] Create: Prevent back after log-out
+
+commit abfa6151b36a04a1b538bd6ebdedf2619f8567b4
+Merge: 9b8877d 95673c8
+Author: Jerwyn Rabor <jerwyn.rabor@ph.fujitsu.com>
+Date:   Mon Feb 3 10:23:10 2020 +0800
+
+    Merging Conflict
+
+commit 9b8877dcd1e3165433bd1a94a14e06656ed337c9
+Author: Jerwyn Rabor <jerwyn.rabor@ph.fujitsu.com>
+Date:   Mon Feb 3 10:22:14 2020 +0800
+
+    [TEMPLATE] Create: Removing external sites in wireshark
+
+commit 95673c899c50851d855d46e2fb2460289952818c
+Merge: c8c7af1 5fc4684
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Mon Jan 27 08:51:26 2020 +0800
+
+    Merging Conflict
+
+commit c8c7af1be62bee675352f939b6a730c633f8b0c0
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Mon Jan 27 08:37:56 2020 +0800
+
+    [LOGIN, IRREGULARITY] Create, Update: Created PDF generation/ view in create irregularity, updated the login for area code
+
+commit 5fc468429d1dbacfc835c9b2a7afdb4e358c977e
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Fri Jan 24 09:23:20 2020 +0800
+
+    [TEMPLATE] Update: Organized and clean the codes
+
+commit d0689fa7d0bcece21f7291d82534d4eb08652da6
+Merge: 43c319d 9890454
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Thu Jan 23 11:36:00 2020 +0800
+
+    Merge branch 'develop' of //10.164.20.176/Repositories/MIT/DEVELOPMENT/pdls-v2/client into develop
+
+commit 43c319da57770e67be16324374c581f9e83730f3
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Thu Jan 23 11:35:47 2020 +0800
+
+    [CREATE IRREGULARITY] Create: Show pdf no data output yet
+
+commit 9890454b3262c3a7254113d266bc98e162cc83f7
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Thu Jan 23 09:32:34 2020 +0800
+
+    [IRREGULARITY] Create: Function for deleting irregularity
+
+commit 18a8f0a2faa229570926d2c2b965fc6e32799a39
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Thu Jan 23 09:23:11 2020 +0800
+
+    [IRREGULARITY] Update: Function button for Update of Irregularity
+
+commit b3c781b5b95440196c15cfea9fe727bf958b5e4a
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Thu Jan 23 07:52:18 2020 +0800
+
+    [UPDATE IRREGULARITY] Update: added monthly in search of parts_with_irreg_update.js
+
+commit 111053897c0427edbf98ac2466c1379cb0e77863
+Merge: 3a05b19 71bb188
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Wed Jan 22 17:22:27 2020 +0800
+
+    Merging Conflicts
+
+commit 3a05b190de6a2d792db575e1ac808a648551b32f
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Wed Jan 22 17:09:36 2020 +0800
+
+    [UPDATE IRREGULARITY] Create: #709 Upload data in table
+
+commit 71bb188f1583756d6424819178db1c8aec8f929a
+Merge: a9c14a4 e180ea5
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Wed Jan 22 17:00:29 2020 +0800
+
+    Merging conflicts
+
+commit e180ea58a96ff0db8d610c6971f3b7a4d7662915
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Wed Jan 22 16:52:19 2020 +0800
+
+    [PLOTTING] Create: #738 Call table after submit button was click
+
+commit 28a26ed4dab7582fdcb82e2e27ea08fa1f982728
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Wed Jan 22 16:37:58 2020 +0800
+
+    [TEMPLATE] Create: #737 Create axios for updating the irregularity
+
+commit f3145ee7017a0a71c24c244c198b39695d5646ce
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Wed Jan 22 16:32:48 2020 +0800
+
+    [TEMPLATE] Update: #732 Added datepicker month for List of Irregularity
+
+commit a9c14a42c4c9546babb35fab5602d7dd230a2c60
+Author: Jerwyn Rabor <jerwyn.rabor@ph.fujitsu.com>
+Date:   Wed Jan 22 16:27:41 2020 +0800
+
+    System Patch
+
+commit c10d5c5a0b845df987fd094a60d2ee98bd836b29
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Wed Jan 22 14:29:04 2020 +0800
+
+    [TEMPLATE] Update: #731 Added datepicker for month if Monthly
+
+commit 12c74ea47337afd8d9ba075fe561a0f302c12fdd
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Wed Jan 22 08:36:19 2020 +0800
+
+    [PLOTTING] Create: #716 Plot data of list of irregularity into datatable
+
+commit 267a98b8b06d3be3d4b1253385be44ccecd2af86
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Tue Jan 21 17:20:55 2020 +0800
+
+    [PLOTTING] Create: #709 Plot data of irreg in table and validate status
+
+commit c37581ce3ae8157235f7df6cba00c7e11af3ae49
+Merge: 8e7569e 89e78fc
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Tue Jan 21 17:11:54 2020 +0800
+
+    Merging Conflicts
+
+commit 8e7569e347614fd55e7048e40d96b19b9cef521d
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Tue Jan 21 17:10:45 2020 +0800
+
+    [CREATE IRREGULARITY] Code Testing
+
+commit 316f2f4212769810d1d58dce697cc48247eb3fa1
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Tue Jan 21 16:52:55 2020 +0800
+
+    [TEMPLATE] Create: #707 Load data of irregularity(update) in datatable
+
+commit ac7b5c40f7f517557dc55370e83a15efcc1c92a4
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Tue Jan 21 16:25:24 2020 +0800
+
+    [IRREGULARITY CREATE] Added: #697 #699 #700
+
+commit 492d9746da3ee78d96dacfa51cb57c8701615c0f
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Tue Jan 21 16:24:54 2020 +0800
+
+    [PLOTTING] Create: #706 Loading of discrepancy quantity
+
+commit 89e78fcca475ed418354829c2b20b2cf1082c11f
+Merge: eaf35fc 2bed953
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Tue Jan 21 16:18:22 2020 +0800
+
+    Merge branch 'local' into develop
+
+commit 2bed9539845aaa6b592c1da61333d455ec9efdc5
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Tue Jan 21 16:17:53 2020 +0800
+
+    [REVISION] Update: #711 Added panel and update columns for List of Irregularity
+
+commit 3e6996d2ec4607a7ba7633788dfa62d53daf65c9
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Tue Jan 21 15:45:41 2020 +0800
+
+    [REVISION] Update: #713 Added column in datatable of Update (Irregularity)
+
+commit 79b3f03a6497d1ec5fa338046209794bc493338a
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Tue Jan 21 15:38:23 2020 +0800
+
+    [TEMPLATE] Create: #702 PDF Format for Irregularity Form
+
+commit eaf35fc11bd67dbe0b4d9807476d09293bfa7d86
+Merge: ca6a477 e5e30b9
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Tue Jan 21 09:58:15 2020 +0800
+
+    Merge branch 'develop' of //10.164.20.176/Repositories/MIT/DEVELOPMENT/pdls-v2/client into develop
+
+commit ca6a477c48fa1f15b16bf10914df15cc8f274d0a
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Tue Jan 21 09:58:04 2020 +0800
+
+    [TEMPLATE] Added: fontawesome
+
+commit e5e30b957188d4c0895a138bdf888ceae5ceab3e
+Merge: a0e657e 076cc97
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Tue Jan 21 09:54:58 2020 +0800
+
+    Merge branch 'local' into develop
+
+commit 076cc97b3e315a2330897e06f54739dbf4730390
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Tue Jan 21 09:53:54 2020 +0800
+
+    [PLOTTING] Create: #696 Displayed the value of discrepancy quantity
+
+commit 278be6b5161daadd64bb30e8f33c04f26c240fa3
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Tue Jan 21 09:16:30 2020 +0800
+
+    [PLOTTING] Create: #693 Load inputs into textboxes
+
+commit a0e657ef6bff24a9db732333cb16768921f48565
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Tue Jan 21 08:24:47 2020 +0800
+
+    [LOADERS] Added: added loading effect in all the current existing pages
+
+commit 381fe313c145c798abb58896508f30ac2c833f63
+Merge: 2171e76 76b44fa
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Mon Jan 20 14:39:17 2020 +0800
+
+    Merge branch 'develop' of //10.164.20.176/Repositories/MIT/DEVELOPMENT/pdls-v2/client into develop
+
+commit 2171e7670ac0fcb0d1716272e60af7b8b212f425
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Mon Jan 20 14:39:03 2020 +0800
+
+    [UPLOAD MASTERDATA] #643, #673, #670 Added: laravel excel
+
+commit 76b44fa607f402e0d4fbe2d1719dac129331653a
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Mon Jan 20 10:44:12 2020 +0800
+
+    [TEMPLATE] Update: #698 Changed table columns for Update and Added Table for List of Irregularity
+
+commit 6d7daccd7c4c603274181feb668408e428898fa1
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Fri Jan 17 16:33:19 2020 +0800
+
+    [TEMPLATE] Update: #694 Enable textboxes for editing in Update Irregularity
+
+commit 8b649a50b70e2c5337ebe671080ab4641949a240
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Fri Jan 17 16:13:04 2020 +0800
+
+    [IRREGULARITY] Update: #692 Enable textboxes for editing in Create Irregularity
+
+commit 7981aa018e8b41813285a5484bf975a24e7361a7
+Merge: 503f709 1ddcb76
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Fri Jan 17 14:02:30 2020 +0800
+
+    Merging Conflicts
+
+commit 503f7097cd99b4a003012c45d2c831af1c884c93
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Fri Jan 17 14:01:09 2020 +0800
+
+    Merging Conflicts
+
+commit 1ddcb76a3fa4f196f357938164f63175821e3b3e
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Fri Jan 17 14:00:42 2020 +0800
+
+    Merge conflicts
+
+commit 813243a68a7d3300ce1927cec55f65d8934b63dc
+Merge: c04529e 1b15b39
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Fri Jan 17 13:38:41 2020 +0800
+
+    Merging Conflicts
+
+commit c04529e3c2eb603a4c3c34bec9e74755f2de8fde
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Fri Jan 17 13:36:36 2020 +0800
+
+    [TEMPLATE] Add: added custom-head
+
+commit 1b15b39aa127465a497eb1130297cccaa2872588
+Merge: 6f370e4 5bd5560
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Fri Jan 17 13:28:24 2020 +0800
+
+    Merge branch 'local' into develop
+
+commit 6f370e48661ce76185e03c770a7e8816685b9bed
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Fri Jan 17 12:06:56 2020 +0800
+
+    [USER MANAGEMENT] Revise: Added route in middleware
+
+commit 5bd55600b03aabf4674e838b594646c17499c0f3
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Fri Jan 17 11:43:35 2020 +0800
+
+    [TEMPLATE] Update: #685 Added csv export button
+
+commit aea17e766672f6259295985a061631fb6784df29
+Merge: 7b08ac7 f030d2f
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Fri Jan 17 10:45:51 2020 +0800
+
+    Mergin Conflicts
+
+commit 7b08ac73555efe576accf05cce1c95463ec64af3
+Merge: 2604a73 a011fe3
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Fri Jan 17 10:42:59 2020 +0800
+
+    Merge branch 'local' into develop
+
+commit a011fe3a394d4b3464feeaf8bb0a73ba729bea6a
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Fri Jan 17 10:42:46 2020 +0800
+
+    [USER MANAGEMENT] Revise: #684 Added Middleware for processes
+
+commit f030d2f06acbb3645a334dfdebc29e26ad44e0f5
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Fri Jan 17 09:57:04 2020 +0800
+
+    [TEMPLATE] Create: #644 Tenplate for sync in Master Data
+
+commit c64ad20ab3f5e99b112bad4ef930231d0aaaedbe
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Fri Jan 17 09:08:35 2020 +0800
+
+    [MANAGEMENT] Create: #675 Middleware for user management
+
+commit 40265ae47592a7eb62a23abf55e684326dcb3cfd
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Fri Jan 17 08:50:01 2020 +0800
+
+    [TEMPLATE] Update: #681 Change payout details to Master
+
+commit cf6df27237d03c2511ea7e8913a4d50fb71392a5
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Fri Jan 17 08:05:26 2020 +0800
+
+    [USER MNGT] Update: #680 Update area code under User Management
+
+commit 7662bd6c365585d29b8253ee448c1881814af94a
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Thu Jan 16 17:02:37 2020 +0800
+
+    [USER MNGT] Update: #677 Hide and show area code
+
+commit 2604a73beb27696459d4300fe3ac3b270f27adcc
+Merge: 664f657 4d1b01b
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Thu Jan 16 15:17:54 2020 +0800
+
+    Merge branch 'develop' of //10.164.20.176/Repositories/MIT/DEVELOPMENT/pdls-v2/client into develop
+
+commit 664f6573393fbb739a79c0bc5606893aa2f667b5
+Merge: d3d71f8 880cdf8
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Thu Jan 16 15:17:40 2020 +0800
+
+    Merge branch 'local' into develop
+
+commit 880cdf8af1a67b6a719ba5d0c8adcec9b04bc5a8
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Thu Jan 16 15:17:23 2020 +0800
+
+    [LOGIN] Revise: #672 Area Code during login
+
+commit 4d1b01ba5f25933d6297635ea24599e420a1bb8d
+Merge: d3d71f8 5e9601d
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Thu Jan 16 14:54:06 2020 +0800
+
+    Merging conflicts
+
+commit 5e9601de0b7077b1d9d02d04477c038d2e8f755a
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Thu Jan 16 14:51:16 2020 +0800
+
+    [DESTINATION MNGT] Created: #661 Plotting of data in Destination Management
+
+commit d0514160ef4e86957f1e3bb2a654db2fb08b9627
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Thu Jan 16 14:29:48 2020 +0800
+
+    [MANAGEMENT] Create: #668 Session for managements
+
+commit d3d71f8ffb136cbb3f888d97279701e0830f8cdb
+Merge: 8d4d312 1e8a1de
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Thu Jan 16 10:25:13 2020 +0800
+
+    Merge branch 'develop' of //10.164.20.176/Repositories/MIT/DEVELOPMENT/pdls-v2/client into develop
+
+commit 8d4d31217991e6b67b5ad02366d0cbbdd4803804
+Merge: fca9c43 d321469
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Thu Jan 16 10:24:33 2020 +0800
+
+    Merging Conflicts
+
+commit d3214697a9ecb3cf4bfaa0e88b84a1eff78606c4
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Thu Jan 16 10:21:07 2020 +0800
+
+    [USER MANAGEMENT] Create: #667 Plotting of values from user (api)
+
+commit 1e8a1de430b887244c1b113b195918b5441d7ccc
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Wed Jan 15 14:59:52 2020 +0800
+
+    [AREA CODE MNGT] Create: #651 Plotting of Area Code
+
+commit fca9c43982bffb4b57cd080ddc8eb11daedc7ba5
+Merge: e6cbb5c 8e150f4
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Wed Jan 15 14:17:10 2020 +0800
+
+    Merge branch 'develop' of //10.164.20.176/Repositories/MIT/DEVELOPMENT/pdls-v2/client into develop
+
+commit e6cbb5cf9ac205b47750cc667fadffe28112dd8d
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Wed Jan 15 14:16:43 2020 +0800
+
+    [PAYOUT AREA] Edited: response[data] -> response[data].data, line:22
+
+commit 0f3d0859ba8b5558fcd111ab1ca91a0c88cae8a6
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Wed Jan 15 14:15:12 2020 +0800
+
+    [PAYOUT AREA] Created: #654 Plotting of data for payout
+
+commit 8e150f4462699aabad82a2aaca97c8caf566d100
+Merge: 71a012d 3b1e34e
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Wed Jan 15 14:13:50 2020 +0800
+
+    Merge branch 'local' into develop
+
+commit 3b1e34e85cbfb86b3ad0487c5a33c33f9043c298
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Wed Jan 15 14:13:23 2020 +0800
+
+    [USER MNGT] Update: #665 Template for User Management
+
+commit 71a012dc195a9dddec8c27ec7c0a6983e07be863
+Merge: 89c006f 0f07ac2
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Wed Jan 15 11:53:54 2020 +0800
+
+    merging conflicts
+
+commit 89c006f5b401ac81cd9997b357d75bef4368bf2d
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Wed Jan 15 11:45:13 2020 +0800
+
+    [DELIVERY TYPE MNGT] Create: #655 Plotting of data in delivery management view
+
+commit 0f07ac242d3966f7523f2c4e0d5bbc43bc1b9fb0
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Wed Jan 15 11:42:44 2020 +0800
+
+    [USER MNGT] Create: #665 Template for User Management
+
+commit 71d5ce078b3e6a769cac0eb4f7f4a0183f225afa
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Fri Jan 10 15:08:34 2020 +0800
+
+    [DESTINATION MNGT] Create: #660 Template for Destination
+
+commit c354bd36f990917b2acfdcfb929c3082505ab454
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Fri Jan 10 13:33:21 2020 +0800
+
+    [AREA(PAYOUT)] Create: #652 Template for Area Code (Payout)
+
+commit f00d80a0cc2cbe576120abf30cbe1280c37cd5ba
+Merge: 0515348 98562ef
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Fri Jan 10 11:01:14 2020 +0800
+
+    Merging conflicts
+
+commit 0515348afde6f6a2463b730b369743a64e5a7d5c
+Merge: ddd9f8a 66bbc70
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Fri Jan 10 11:00:05 2020 +0800
+
+    Merging conflicts
+
+commit 98562ef8136581eee598b63277dba835cea74725
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Fri Jan 10 10:53:27 2020 +0800
+
+    [DELIVERY TYPE MNGT] Create: #649 Template for Delivery Management
+
+commit 2ede842d79c64105b346eb754db6926d52f81e33
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Fri Jan 10 09:50:46 2020 +0800
+
+    [AREA CODE MNGT] Create: #646 Template for Area Code
+
+commit da2db359eee9d8619455e6dd016eed631afda674
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Fri Jan 10 08:36:37 2020 +0800
+
+    [TEMPLATE] Create: #647 Menu var title for Managements
+
+commit 66bbc7067ccac9cfcad4eeb374a29d1ca6016265
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Thu Jan 9 18:00:58 2020 +0800
+
+    [TRANSACTIONS] Add: Added all transaction views
+
+commit 2134f2e0b38cc7d4b536b43448a97422eb1362a6
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Thu Jan 9 14:09:59 2020 +0800
+
+    [LOGIN] Add: Auth, change the vendor
+
+commit ddd9f8a54ab0491dcf8bd710456b645e7c754409
+Merge: 98d9212 4692fb9
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Thu Jan 9 10:48:27 2020 +0800
+
+    Merge branch 'develop' of //10.164.20.176/Repositories/MIT/DEVELOPMENT/pdls-v2/client into develop
+
+commit 98d92125254b4adead803d22a2542b1af105df32
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Thu Jan 9 10:39:42 2020 +0800
+
+    [TEMPLATE] Create: Created template for Parts Status, and Delivery Data window
+
+commit cefe1792de7ab903d3ee299c0d5dfc3c1d83532e
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Wed Jan 8 16:12:34 2020 +0800
+
+    [TENPLATE] Create: Created template for Monitoring Report window
+
+commit 4692fb98c902df7f180c0267b69ecaf469a11c0d
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Wed Jan 8 15:37:11 2020 +0800
+
+    [LOGIN] Update: Uncomment redirect
+
+commit 7575df9368ecc610f59953f233f58dbea22e9991
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Wed Jan 8 15:35:02 2020 +0800
+
+    [LOGIN] Update: Change condition in save area code
+
+commit 3e1be113eee15e0078096c17abbc90c56b57e218
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Wed Jan 8 15:15:21 2020 +0800
+
+    [LOGIN] Update: Change initial redirect
+
+commit b91910c53bf020813b34797aeec76319ae41a588
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Wed Jan 8 15:10:09 2020 +0800
+
+    [LOGIN] Update: Uncomment redicrect
+
+commit cca3cd89de11ae94e01b4dcf11b3661c030923b1
+Merge: d56adae ce48f9f
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Wed Jan 8 14:50:10 2020 +0800
+
+    [MERGIN CONFLICTS] Add: script  loading-overlay
+
+commit d56adaee1e57f4ebbdfadddfd7edeea6d2abfcf9
+Author: Mark Sarmiento <mark.sarmiento@ph.fujitsu.com>
+Date:   Wed Jan 8 14:46:17 2020 +0800
+
+    [LOGIN] Add: Update user area id
+
+commit ce48f9fce7a73e129dbd6e58c7594c07a253a35d
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Wed Jan 8 14:32:37 2020 +0800
+
+    [TEMPLATE] Create: Created template for LeadTime Data window
+
+commit 3022f1cd21a0414fe115c755228f70ded6f3af35
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Wed Jan 8 12:04:24 2020 +0800
+
+    [TEMPLATE] Create: Created template for Dashboard
+
+commit 9c0ee07124db355357bef873c54f924df9531df3
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Wed Jan 8 08:56:17 2020 +0800
+
+    [TEMPLATE] Create: Created template for Parts With Irregularity windows
+
+commit cf4127e1daf0e83ad34855faaea70789cfa85409
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Tue Jan 7 15:13:00 2020 +0800
+
+    [TEMPLATE] Created: Created template for Reprint Documents
+
+commit eeb5f85fd08a7b58306166ab45754cefd0f722be
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Tue Jan 7 13:26:14 2020 +0800
+
+    [TEMPATE] Created: Created template for Payout Data
+
+commit f4d131065f0c3067a4d57a279f0fbdc761960582
+Author: Noreen Arriane Siron <noreenarriane.siron@ph.fujitsu.com>
+Date:   Tue Jan 7 09:00:08 2020 +0800
+
+    [TEMPLATE] Created: Designing of template
+
+commit eae31c82a9943b2c60a9efc9ca5b634417682c22
+Author: Jerwyn Rabor <jerwyn.rabor@ph.fujitsu.com>
+Date:   Tue Dec 24 08:49:56 2019 +0800
+
+    [TEMPLATE] Create: Initial Commit
